@@ -1,0 +1,6 @@
+{'city':'重庆', 'longitude':'106.550464', 'latitude':'29.563761'}
+{'city':'北京', 'longitude':'116.407420', 'latitude':'39.904170'}
+{'city':'玉溪', 'longitude':'102.543907', 'latitude':'24.350461'}
+{'city':'南京', 'longitude':'118.796623', 'latitude':'32.059352'}
+{'city':'昆明', 'longitude':'102.833722', 'latitude':'24.881539'}
+{'city':'成都', 'longitude':'104.066143', 'latitude':'30.573095'}
